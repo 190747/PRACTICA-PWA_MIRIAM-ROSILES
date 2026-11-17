@@ -1,14 +1,14 @@
 {
+    "short_name":"Ejemplo",
+    "name":"Ejemplo de manifest",
+    "start_url":"index.html",
 
-"short_name":"Ejemplo",
-"name":"Ejemplo de manifest",
-"start_url":"index.html",
-"background_color":"#3498db",
-"theme_color":"#3498db",
-"display": "standalone",
-"orientation":"portrait",
+    "background_color":"#3498db",
+    "theme_color":"#3498db",
+    "display":"standalone",
+    "orientation":"portatil",
 
-"icons": [
+    "icons": [
     {
         "src": "images/icons/icon-72x72.png",
         "type": "image/png",
@@ -50,5 +50,5 @@
         "sizes": "512x512"
     }
   ]
-
 }
+
